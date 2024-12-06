@@ -1,0 +1,27 @@
+[
+  {
+    "name": "John Doe",
+    "modelNumber": "FLA-2020",
+    "manufacturingDate": "2015-06-15"
+  },
+  {
+    "name": "Jane Smith",
+    "modelNumber": "FLB-2018",
+    "manufacturingDate": "2018-04-20"
+  },
+  {
+    "name": "Michael Brown",
+    "modelNumber": "FLC-2016",
+    "manufacturingDate": "2016-09-10"
+  },
+  {
+    "name": "Emily Davis",
+    "modelNumber": "FLD-2021",
+    "manufacturingDate": "2021-11-30"
+  },
+  {
+    "name": "Chris Johnson",
+    "modelNumber": "FLE-2014",
+    "manufacturingDate": "2014-03-25"
+  }
+]
